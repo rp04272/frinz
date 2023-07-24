@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252113562822",
+    "project_id": "frinz-cbd27",
+    "storage_bucket": "frinz-cbd27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252113562822:android:779b769905dcaf0443bbc7",
+        "android_client_info": {
+          "package_name": "com.example.frinz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252113562822-j0lv0k9lg8l4481rfk46kg3fc6st34qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhgkN2K0jgSatBIrDaton_t-4fksIQIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252113562822-j0lv0k9lg8l4481rfk46kg3fc6st34qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
